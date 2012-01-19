@@ -9,7 +9,7 @@ This package provides some helpers and useful types for web testing. Including, 
 
 Install using goinstall:
 
-    goinstall http://github.com/chlu/webtestutil
+    goinstall github.com/chlu/webtestutil
 
 Clone and build using gomake:
 
