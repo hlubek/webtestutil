@@ -1,6 +1,6 @@
 include $(GOROOT)/src/Make.inc
 
-TARG=webtestutil
+TARG=github.com/chlu/webtestutil
 GOFILES=\
 	src/webtestutil/sessions.go\
 
